@@ -198,3 +198,5 @@ function send_to_line_notify(message) {
   
   UrlFetchApp.fetch(line_notify_url, options);
 }
+
+
